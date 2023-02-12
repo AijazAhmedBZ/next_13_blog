@@ -3,7 +3,7 @@ import styles from "./page.module.css";
 
 export async function generatStaticParams() {
     const ids: string[] = ["1", "2"];
-    return ids.map((id) => ({ id: id }));
+    return ids.map((id) =>({ id: id }));
 }
 
 async function getPost(id: string) {

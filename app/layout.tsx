@@ -4,7 +4,7 @@ import './globals.css'
 import styles from './layout.module.css'
 import utilStyles from './utils.module.css'
 
-const name = "Tahoora Janoo";
+const name = "Mangaoo Gher Per";
 export default function RootLayout({
   children,
 }: {
